@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SimoneTest/testing/issues"
   },
-  "homepage": "https://github.com/SimoneTest/testing#readme"
+  "homepage": "https://github.com/SimoneTest/testing#readme",
+  "dependencies": {
+    "jest": "^29.3.1"
+  }
 }
